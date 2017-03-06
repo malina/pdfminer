@@ -1,0 +1,13 @@
+name: pdfminer
+version: 0.1.0
+
+authors:
+  - Alexandr Shumov <schumi@live.ru>
+
+targets:
+  pdfminer:
+    main: src/pdfminer.cr
+
+crystal: 0.21.0
+
+license: MIT
